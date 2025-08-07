@@ -1,3 +1,6 @@
+
+```
+
 all-age_predict_system/
 │
 ├── images/             ← 全画像
@@ -11,3 +14,5 @@ all-age_predict_system/
 ├── tripletTrain.py     ← Triplet学習・評価スクリプト
 ├── tripletLearning.py  ← Model・Dataset・Trainをひとまとめにしたスクリプト
 └── config.py           ← データ拡張スクリプト
+
+```
